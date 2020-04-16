@@ -5,3 +5,10 @@ C:\Users\Максим\source\repos\ConsoleApp6\TCPScanner\obj\Debug\TCPScanner.c
 C:\Users\Максим\source\repos\ConsoleApp6\TCPScanner\obj\Debug\TCPScanner.csproj.CoreCompileInputs.cache
 C:\Users\Максим\source\repos\ConsoleApp6\TCPScanner\obj\Debug\ConsoleApp6.exe
 C:\Users\Максим\source\repos\ConsoleApp6\TCPScanner\obj\Debug\ConsoleApp6.pdb
+C:\Users\Максим\TCPportsScanner\TCPScanner\bin\Debug\ConsoleApp6.exe.config
+C:\Users\Максим\TCPportsScanner\TCPScanner\bin\Debug\ConsoleApp6.exe
+C:\Users\Максим\TCPportsScanner\TCPScanner\bin\Debug\ConsoleApp6.pdb
+C:\Users\Максим\TCPportsScanner\TCPScanner\obj\Debug\TCPScanner.csprojResolveAssemblyReference.cache
+C:\Users\Максим\TCPportsScanner\TCPScanner\obj\Debug\TCPScanner.csproj.CoreCompileInputs.cache
+C:\Users\Максим\TCPportsScanner\TCPScanner\obj\Debug\ConsoleApp6.exe
+C:\Users\Максим\TCPportsScanner\TCPScanner\obj\Debug\ConsoleApp6.pdb
